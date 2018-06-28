@@ -16,5 +16,10 @@ namespace CentralNoticias
         {
             InitializeComponent();
         }
+
+        private void BtnAdicionar_Clicked(object sender, EventArgs e)
+        {
+
+        }
     }
 }

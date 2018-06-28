@@ -2,8 +2,25 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="CentralNoticias.NovaNoticia">
-    <StackLayout BackgroundColor="Aqua" Padding="10" x:Name="StackLayoutNoticias">
-        
+    <StackLayout BackgroundColor="Aqua" Padding="10" x:Name="StackLayoutNovaNoticias">
+        <StackLayout>
+            <Label Text="Adicionar Noticia"
+                   HorizontalOptions="Center"
+                   FontSize="Large"/>
+            <Entry x:Name="EntryInformativo" 
+                   Placeholder="Digite o informativo"/>
+            <Entry x:Name="EntryTitulo" 
+                   Placeholder="Digite o título aqui"/>
+            <Entry x:Name="EntryNoticia" 
+                   Placeholder="Digite a notícia aqui"/>
+            <Entry x:Name="EntryAutor" 
+                   Placeholder="Digite o autor aqui"/>
+            <Entry x:Name="EntryData" 
+                   Placeholder="Digite a data aqui"/>
+            <Button x:Name="BtnAdicionar" 
+                    Text="Adicionar"
+                    Clicked="BtnAdicionar_Clicked"/>
+        </StackLayout>
     </StackLayout>
 
 </ContentPage>
