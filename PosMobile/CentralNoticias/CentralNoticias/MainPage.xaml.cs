@@ -16,14 +16,82 @@ namespace CentralNoticias
         {
             CentralNoticiasService service = new CentralNoticiasService();
 
+            StackLayout stackLayout;
+
+            Label textoPrincipal = new Label()
+            {
+                Text = "Central de Notícias",
+                Font = Font.SystemFontOfSize(25),
+                HorizontalOptions = LayoutOptions.Center
+            };
+
+            stackLayout = new StackLayout();
+
+            stackLayout.Children.Add(textoPrincipal);
+
+            Button novo = new Button()
+            {
+                Text = "Novo",
+                Font = Font.SystemFontOfSize(10),
+                HorizontalOptions = LayoutOptions.Start,
+                BackgroundColor = Color.Transparent
+            };
+
+            StackLayoutNoticias.Children.Add(stackLayout);
+            StackLayoutNoticias.Children.Add(novo);
+
             foreach (Noticia noticia in service.listNews().noticias)
             {
-                Label label = new Label()
+                stackLayout = new StackLayout()
                 {
-                    Text = noticia.titulo
+                    BackgroundColor = Color.Azure,
+                    Padding = 10
                 };
 
-                StackLayoutNoticias.Children.Add(label);
+                Label titulo = new Label()
+                {
+                    Text = "Novo caso de lavajato",
+                    Font = Font.SystemFontOfSize(20),
+                    HorizontalOptions = LayoutOptions.Center
+                };
+
+                Label mensagem = new Label()
+                {
+                    Text = "Novo caso de lavajato foi apurado no centro do rio de janeiro, onde foram presas 500 pessoas.",
+                    Font = Font.SystemFontOfSize(15),
+                    HorizontalOptions = LayoutOptions.Center
+                };
+
+                Label autor = new Label()
+                {
+                    Text = "Autor - Julio Grativol",
+                    Font = Font.SystemFontOfSize(14),
+                    HorizontalOptions = LayoutOptions.Center
+                };
+
+                Label data = new Label()
+                {
+                    Text = "28/06/2018",
+                    Font = Font.SystemFontOfSize(14),
+                    HorizontalOptions = LayoutOptions.End
+                };
+
+                Button excluir = new Button()
+                {
+                    Text = "Excluir",
+                    Font = Font.SystemFontOfSize(10),
+                    HorizontalOptions = LayoutOptions.Start,
+                    BackgroundColor = Color.Transparent
+                };
+
+
+                stackLayout.Children.Add(titulo);
+                stackLayout.Children.Add(mensagem);
+                stackLayout.Children.Add(autor);
+                stackLayout.Children.Add(data);
+                stackLayout.Children.Add(excluir);
+
+                StackLayoutNoticias.Children.Add(stackLayout);
             }
         }
 
