@@ -19,8 +19,7 @@
     <Compile Include="$(MSBuildThisFileDirectory)MainPage.xaml.cs">
       <DependentUpon>MainPage.xaml</DependentUpon>
     </Compile>
-    <Compile Include="$(MSBuildThisFileDirectory)Model\ListaNoticias.cs" />
-    <Compile Include="$(MSBuildThisFileDirectory)Model\Noticia.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)Model\model.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)Service\CentralNoticiasService.cs" />
   </ItemGroup>
 </Project>

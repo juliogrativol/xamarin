@@ -13,7 +13,8 @@
 namespace CentralNoticias {
     
     
-    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\jthomaz\\source\\repos\\PosMobile\\CentralNoticias\\CentralNoticias\\App.xaml")]
+    [global::Xamarin.Forms.Xaml.XamlFilePathAttribute("C:\\Users\\jthomaz\\Desktop\\xamarin\\PosMobile\\CentralNoticias\\CentralNoticias\\App.xa" +
+        "ml")]
     public partial class App : global::Xamarin.Forms.Application {
         
         [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "2.0.0.0")]
