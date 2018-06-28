@@ -1,0 +1,5 @@
+C:\Users\jthomaz\Desktop\xamarin\PosMobile\CentralNoticias\CentralNoticias.Android\obj\Debug\CentralNoticias.Android.csprojAssemblyReference.cache
+C:\Users\jthomaz\Desktop\xamarin\PosMobile\CentralNoticias\CentralNoticias.Android\obj\Debug\App.xaml.g.cs
+C:\Users\jthomaz\Desktop\xamarin\PosMobile\CentralNoticias\CentralNoticias.Android\obj\Debug\MainPage.xaml.g.cs
+C:\Users\jthomaz\Desktop\xamarin\PosMobile\CentralNoticias\CentralNoticias.Android\obj\Debug\NovaNoticia.xaml.g.cs
+C:\Users\jthomaz\Desktop\xamarin\PosMobile\CentralNoticias\CentralNoticias.Android\obj\Debug\CentralNoticias.Android.csproj.CoreCompileInputs.cache

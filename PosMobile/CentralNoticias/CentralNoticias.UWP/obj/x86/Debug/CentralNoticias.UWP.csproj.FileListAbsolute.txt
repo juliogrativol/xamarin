@@ -1,0 +1,14 @@
+C:\Users\jthomaz\Desktop\xamarin\PosMobile\CentralNoticias\CentralNoticias.UWP\obj\x86\Debug\CentralNoticias.UWP.csprojAssemblyReference.cache
+C:\Users\jthomaz\Desktop\xamarin\PosMobile\CentralNoticias\CentralNoticias.UWP\obj\x86\Debug\App.g.i.cs
+C:\Users\jthomaz\Desktop\xamarin\PosMobile\CentralNoticias\CentralNoticias.UWP\obj\x86\Debug\App.g.cs
+C:\Users\jthomaz\Desktop\xamarin\PosMobile\CentralNoticias\CentralNoticias.UWP\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\jthomaz\Desktop\xamarin\PosMobile\CentralNoticias\CentralNoticias.UWP\obj\x86\Debug\MainPage.g.cs
+C:\Users\jthomaz\Desktop\xamarin\PosMobile\CentralNoticias\CentralNoticias.UWP\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\jthomaz\Desktop\xamarin\PosMobile\CentralNoticias\CentralNoticias.UWP\obj\x86\Debug\App.xaml
+C:\Users\jthomaz\Desktop\xamarin\PosMobile\CentralNoticias\CentralNoticias.UWP\obj\x86\Debug\MainPage.xaml
+C:\Users\jthomaz\Desktop\xamarin\PosMobile\CentralNoticias\CentralNoticias.UWP\obj\x86\Debug\App.xbf
+C:\Users\jthomaz\Desktop\xamarin\PosMobile\CentralNoticias\CentralNoticias.UWP\obj\x86\Debug\MainPage.xbf
+C:\Users\jthomaz\Desktop\xamarin\PosMobile\CentralNoticias\CentralNoticias.UWP\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\jthomaz\Desktop\xamarin\PosMobile\CentralNoticias\CentralNoticias.UWP\obj\x86\Debug\App.xaml.g.cs
+C:\Users\jthomaz\Desktop\xamarin\PosMobile\CentralNoticias\CentralNoticias.UWP\obj\x86\Debug\MainPage.xaml.g.cs
+C:\Users\jthomaz\Desktop\xamarin\PosMobile\CentralNoticias\CentralNoticias.UWP\obj\x86\Debug\NovaNoticia.xaml.g.cs

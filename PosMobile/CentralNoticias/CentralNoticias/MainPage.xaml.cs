@@ -1,5 +1,6 @@
 ﻿using CentralNoticias.Model;
 using CentralNoticias.Service;
+using System;
 using Xamarin.Forms;
 
 namespace CentralNoticias
@@ -36,6 +37,8 @@ namespace CentralNoticias
                 HorizontalOptions = LayoutOptions.Start,
                 BackgroundColor = Color.Transparent
             };
+
+            novo.Clicked += new EventHandler(BtnNovaNoticia_Clicked);
 
             StackLayoutNoticias.Children.Add(stackLayout);
             StackLayoutNoticias.Children.Add(novo);
@@ -123,6 +126,11 @@ namespace CentralNoticias
             noticia.autor = "Teste de autor";
 
             service.addNews(noticia);
+        }
+
+        private void BtnNovaNoticia_Clicked(Object sender, EventArgs args)
+        {
+            Navigation.PushAsync(new NovaNoticia());
         }
     }
 }

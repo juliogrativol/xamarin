@@ -1,0 +1,11 @@
+C:\Users\jthomaz\Desktop\xamarin\PosMobile\CentralNoticias\CentralNoticias.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\jthomaz\Desktop\xamarin\PosMobile\CentralNoticias\CentralNoticias.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+C:\Users\jthomaz\Desktop\xamarin\PosMobile\CentralNoticias\CentralNoticias.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\jthomaz\Desktop\xamarin\PosMobile\CentralNoticias\CentralNoticias.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+C:\Users\jthomaz\Desktop\xamarin\PosMobile\CentralNoticias\CentralNoticias.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\jthomaz\Desktop\xamarin\PosMobile\CentralNoticias\CentralNoticias.iOS\obj\iPhoneSimulator\Debug\optimized\
+C:\Users\jthomaz\Desktop\xamarin\PosMobile\CentralNoticias\CentralNoticias.iOS\obj\iPhoneSimulator\Debug\CentralNoticias.iOS.csprojAssemblyReference.cache
+C:\Users\jthomaz\Desktop\xamarin\PosMobile\CentralNoticias\CentralNoticias.iOS\obj\iPhoneSimulator\Debug\App.xaml.g.cs
+C:\Users\jthomaz\Desktop\xamarin\PosMobile\CentralNoticias\CentralNoticias.iOS\obj\iPhoneSimulator\Debug\MainPage.xaml.g.cs
+C:\Users\jthomaz\Desktop\xamarin\PosMobile\CentralNoticias\CentralNoticias.iOS\obj\iPhoneSimulator\Debug\NovaNoticia.xaml.g.cs
+C:\Users\jthomaz\Desktop\xamarin\PosMobile\CentralNoticias\CentralNoticias.iOS\obj\iPhoneSimulator\Debug\CentralNoticias.iOS.csproj.CoreCompileInputs.cache
