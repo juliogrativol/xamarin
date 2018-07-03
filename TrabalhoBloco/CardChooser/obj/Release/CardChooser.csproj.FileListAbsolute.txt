@@ -1,0 +1,15 @@
+/Users/julio.grativol/Projects/TrabalhoBloco/CardChooser/bin/Release/CardChooser.dll
+/Users/julio.grativol/Projects/TrabalhoBloco/CardChooser/bin/Release/Xamarin.Forms.Core.dll
+/Users/julio.grativol/Projects/TrabalhoBloco/CardChooser/bin/Release/Xamarin.Forms.Platform.dll
+/Users/julio.grativol/Projects/TrabalhoBloco/CardChooser/bin/Release/Xamarin.Forms.Xaml.dll
+/Users/julio.grativol/Projects/TrabalhoBloco/CardChooser/bin/Release/Xamarin.Forms.Core.pdb
+/Users/julio.grativol/Projects/TrabalhoBloco/CardChooser/bin/Release/Xamarin.Forms.Core.dll.mdb
+/Users/julio.grativol/Projects/TrabalhoBloco/CardChooser/bin/Release/Xamarin.Forms.Core.xml
+/Users/julio.grativol/Projects/TrabalhoBloco/CardChooser/bin/Release/Xamarin.Forms.Xaml.pdb
+/Users/julio.grativol/Projects/TrabalhoBloco/CardChooser/bin/Release/Xamarin.Forms.Xaml.dll.mdb
+/Users/julio.grativol/Projects/TrabalhoBloco/CardChooser/bin/Release/Xamarin.Forms.Xaml.xml
+/Users/julio.grativol/Projects/TrabalhoBloco/CardChooser/obj/Release/CardChooser.csprojResolveAssemblyReference.cache
+/Users/julio.grativol/Projects/TrabalhoBloco/CardChooser/obj/Release/CardChooser.csproj.CoreCompileInputs.cache
+/Users/julio.grativol/Projects/TrabalhoBloco/CardChooser/obj/Release/CardChooser.App.xaml.g.cs
+/Users/julio.grativol/Projects/TrabalhoBloco/CardChooser/obj/Release/CardChooser.CardChooserPage.xaml.g.cs
+/Users/julio.grativol/Projects/TrabalhoBloco/CardChooser/obj/Release/CardChooser.dll

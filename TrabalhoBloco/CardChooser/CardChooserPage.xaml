@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+    xmlns:local="clr-namespace:CardChooser" 
+    x:Class="CardChooser.CardChooserPage">
+
+    <StackLayout Orientation="Vertical" Padding="10">
+
+        <Label Text="Lance sua sorte!" FontSize="20" HorizontalTextAlignment="Center"></Label>
+        
+        <StackLayout Orientation="Horizontal" HorizontalOptions="Center">
+
+            <Button x:Name="btn_1" BackgroundColor="Green" Clicked="btn_1_Clicked"></Button>
+            <Button x:Name="btn_2" BackgroundColor="Green" Clicked="btn_2_Clicked"></Button>
+            <Button x:Name="btn_3" BackgroundColor="Green" Clicked="btn_3_Clicked"></Button>
+        
+        </StackLayout>
+
+        <Label x:Name="mensagem" Text="" FontSize="20" HorizontalTextAlignment="Center"></Label>
+        
+        <StackLayout>
+            <Button x:Name="btn_start" Text="Start" Clicked="btn_start_Clicked" IsEnabled="false"></Button>
+        </StackLayout>
+
+        <Label x:Name="perdeu" Text="Acertou - " FontSize="20" HorizontalTextAlignment="Center"></Label>
+        <Label x:Name="ganhouss" Text="Errou - " FontSize="20" HorizontalTextAlignment="Center"></Label>
+        
+    </StackLayout>
+</ContentPage>

@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{9C570ACD-A0D5-45C3-8902-459D19E6B7C1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CardChooser/CardChooserPage.xaml.cs">
+    <Files>
+      <File FileName="CardChooser/App.xaml.cs" Line="1" Column="1" />
+      <File FileName="CardChooser/App.xaml" Line="7" Column="1" />
+      <File FileName="CardChooser/CardChooserPage.xaml" Line="14" Column="35" />
+      <File FileName="CardChooser/CardChooserPage.xaml.cs" Line="12" Column="16" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CardChooser.Droid PreferredExecutionTarget="cea4f809-64e8-4e90-9e70-4cc93c8d64b5" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CardChooser.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.CardChooser.iOS>
+</Properties>
